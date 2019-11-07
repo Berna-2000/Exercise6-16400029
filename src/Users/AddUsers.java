@@ -226,7 +226,7 @@ public class AddUsers extends javax.swing.JFrame {
         jSpinner1.setValue(date);
         jSpinner2.setValue(date);
         jTextField3.setText("2000"); 
-        jTextField4.setText("jTextField4");
+        jTextField4.setText("Contact Information");
         jTextField5.setText("E-mail Address");
         jTextField6.setText("Address");
     }//GEN-LAST:event_jButton2ActionPerformed
